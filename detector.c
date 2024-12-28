@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "detection.h"
+#include "detector.h"
 
 void InitializeObjectDetection() 
 {
